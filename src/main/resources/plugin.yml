@@ -1,0 +1,8 @@
+name: IBShulker
+version: '${project.version}'
+main: ibotus.ibshulker.IBShulker
+api-version: '1.16'
+authors: [IBoTuS]
+permissions:
+  ibshulker.bypass:
+    description: Позволяет поместить запрещенные предметы в Эндер-Скриню
